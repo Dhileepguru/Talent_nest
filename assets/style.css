@@ -206,6 +206,25 @@ form input {
     color: #0a2d58;
     font-size: x-large;
 }
+.jobCon h1{
+    /* text-align: center; */
+    font-family: "Della Respira", serif;
+    font-weight: 700;
+    font-style: normal;
+    background-color: white;
+    width: max-content;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px ;
+    
+}
+.jobCon h1:hover{
+    border-bottom:1px solid #1877F2;
+    border-right: 1px solid #1877F2;
+}
+.jobCon h1 i{
+    margin-left: 5px;
+}
 
 
 /* flex */
@@ -223,5 +242,11 @@ form input {
     color: rgb(0, 0, 0);
     width: 23%;
     border-radius: 10px;
-    
+}
+
+.conFlex>div>.days
+{
+    text-align: end;
+    padding: 10px;
+    color: rgb(148, 147, 147);
 }
