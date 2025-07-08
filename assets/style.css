@@ -270,3 +270,16 @@ form input {
     margin-left: auto;
     margin-right: 20px;
 }
+
+.Opportunities{
+    text-align: center;
+    margin-top: 10px;
+}
+.Opportunities > button{
+    padding:5px;
+    background-color: white;
+    outline: none;
+    border: none;
+    color: #1877F2;
+    border-radius: 10px ;
+}
