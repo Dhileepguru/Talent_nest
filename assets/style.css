@@ -242,6 +242,7 @@ form input {
     color: rgb(0, 0, 0);
     width: 23%;
     border-radius: 10px;
+    padding-left:10px ;
 }
 
 .conFlex>div>.days
@@ -249,4 +250,23 @@ form input {
     text-align: end;
     padding: 10px;
     color: rgb(148, 147, 147);
+}
+.conFlex>div>h2{
+    font-family:sans-serif;
+}
+
+.com{
+    color: rgb(141, 136, 136);
+}
+
+.pos{
+    margin-left: 10px;
+}
+.applyCon{
+    display: flex;
+    margin-bottom: 15px;
+}
+.applyCon>#applyend{
+    margin-left: auto;
+    margin-right: 20px;
 }
