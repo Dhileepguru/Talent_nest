@@ -283,3 +283,24 @@ form input {
     color: #1877F2;
     border-radius: 10px ;
 }
+
+/* WalkIn */
+
+.walkIn{
+    margin-top: 20px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3%;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+}
+.walkIn>div{
+    background-color:aliceblue;
+    width:23%;
+    height: 50%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
