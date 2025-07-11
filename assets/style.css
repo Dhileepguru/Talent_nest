@@ -303,4 +303,10 @@ form input {
     height: 50%;
     border-radius: 10px;
     margin-bottom: 20px;
+    padding: 15px;
+}
+.walkDays{
+    text-align: end;
+    padding: 10px;
+    color: rgb(148, 147, 147);
 }
